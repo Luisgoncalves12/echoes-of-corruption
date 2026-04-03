@@ -1,0 +1,1 @@
+# Pacote interno do jogo.
