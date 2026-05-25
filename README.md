@@ -124,4 +124,4 @@ Este projeto foi usado para praticar:
 - persistência de dados
 - design de sistemas de RPG
 - organização modular em Python
-- fechamento de campanha e testes de fluxo
+
