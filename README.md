@@ -62,7 +62,6 @@ Ao longo da campanha, as decisões do jogador moldam o tom da história:
 
 - `Python 3`
 - `SQLite`
-- `unittest` para testes automatizados básicos
 
 ## Estrutura do Projeto
 
@@ -83,12 +82,6 @@ Ao longo da campanha, as decisões do jogador moldam o tom da história:
 
 ```bash
 python menu.py
-```
-
-## Como Rodar os Testes
-
-```bash
-python -m unittest discover -s tests
 ```
 
 ## O Que Foi Validado
